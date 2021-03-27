@@ -1,8 +1,8 @@
 # double-linked-lists_c
 
-Simple implementation of Double Linked Lists, ready for user applications programming. Written in C.
+Simple implementation of Double Linked Lists, ready for user applications programming. Written in C, requires the GNU C Library.
 
-They accept every kind of data as entry (as long as it is at most 64-bits wide) and use dynamic memory allocation in the heap (through stdlib.h). For more information, have a look at the code.
+They accept every kind of data as entry (as long as it is at most 64-bits wide) and use dynamic memory allocation in the heap (through *malloc*). For more information, have a look at the code.
 
 ## Can I use this?
 
