@@ -14,8 +14,8 @@
  * See the attached LICENSE file.
  */
 
-#ifndef _DLLIST_H
-#define _DLLIST_H
+#ifndef DLLIST_H
+#define DLLIST_H
 
 /* Record (entry) for a DLList. */
 typedef struct _record {
